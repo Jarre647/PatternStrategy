@@ -7,7 +7,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             var worker = new Worker();
-            worker.DoWork(new AnotherdJob());
+            worker.DoWork(new AnotherJob());
             worker.DoWork(new SomeJob());
             Console.ReadKey();
             Console.WriteLine("Hello World!");

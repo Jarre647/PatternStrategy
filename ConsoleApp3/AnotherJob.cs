@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp3
 {
-    class AnotherdJob : IJob
+    class AnotherJob : IJob
     {
         public void DoJob()
         {

@@ -9,4 +9,3 @@ namespace ConsoleApp3
         void DoJob();
     }
 }
-//test
